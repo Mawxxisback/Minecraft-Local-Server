@@ -23,3 +23,5 @@ I think tools like this should be free and open. Check out the code, make your o
 
 *If you dig this project, give it a ⭐!*
 "This mod was developed with the help of Google's Gemini AI to ensure clean, secure, and optimized code."
+If you need to ask some questions Join the discord: (https://discord.gg/vkC7J6pTX5)  
+--By the way, the discord server is new so we need: Members, Mods, and Discord Server Architects.
